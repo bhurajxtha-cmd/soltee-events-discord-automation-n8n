@@ -12,3 +12,5 @@ When a customer submits an enquiry through the website contact form, their detai
 
 ## Why n8n
 Built the same automation previously with Make.com, now rebuilt in n8n to demonstrate cross-platform automation skills and explore self-hosted options for client cost reduction.
+
+<img width="922" height="435" alt="image" src="https://github.com/user-attachments/assets/f8a41a13-5800-46fa-b1bc-a732f2f1bcfe" />
